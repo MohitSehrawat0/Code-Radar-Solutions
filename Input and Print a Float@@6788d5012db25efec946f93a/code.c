@@ -1,7 +1,7 @@
 
 int main(){
-float x;
-scanf("%f", &x);
-printf("You entered: %.2f", &x)
+int x;
+scanf("%d", &x);
+printf("You entered: %d", &x)
 return 0;
 }
